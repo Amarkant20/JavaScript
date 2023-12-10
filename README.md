@@ -1,2 +1,2 @@
 # JavaScript
-A code repo for JavaScript series at chai aur code 
+A code repo for JavaScript series by Amarkant sonkar
